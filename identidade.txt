@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Nome: Carlos
 CPF: 00000000000
 Idade: 21
 Altura: 1,75
+=======
+Nome: Carros
+Cpf: 000.000.000-00
+>>>>>>> 42d9a0d24e0fe922106e4c58f6d311f10e4259fd
